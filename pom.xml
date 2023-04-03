@@ -72,4 +72,7 @@
       </plugins>
     </pluginManagement>
   </build>
+  <properties>
+    <sonar.sources>src/main/java,src/main/webapp</sonar.sources>
+  </properties>
 </project>
